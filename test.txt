@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test1, modify, try
-=======
-test1
->>>>>>> parent of d8112f7... Modify test
+test
